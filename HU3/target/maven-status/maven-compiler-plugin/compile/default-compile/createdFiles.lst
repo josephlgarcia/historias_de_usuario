@@ -1,0 +1,10 @@
+com/mycompany/hu3/dbconnection/DbConnection.class
+com/mycompany/hu3/repository/ProductRepository.class
+com/mycompany/hu3/domain/Product.class
+com/mycompany/hu3/repository/impl/ProductRepositoryImpl.class
+com/mycompany/hu3/ui/InitUI.class
+com/mycompany/hu3/infra/config/AppConfig.class
+com/mycompany/hu3/service/impl/ProductServiceImpl.class
+com/mycompany/hu3/HU3.class
+com/mycompany/hu3/repository/Repository.class
+com/mycompany/hu3/service/ProductService.class

@@ -1,0 +1,10 @@
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/HU3.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/dbconnection/DbConnection.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/domain/Product.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/infra/config/AppConfig.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/repository/ProductRepository.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/repository/Repository.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/repository/impl/ProductRepositoryImpl.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/service/ProductService.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/service/impl/ProductServiceImpl.java
+/home/xxx/NetBeansProjects/HU3/src/main/java/com/mycompany/hu3/ui/InitUI.java
