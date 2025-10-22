@@ -1,0 +1,6 @@
+com/mycompany/hu2/domain/Producto.class
+service/ProductoService.class
+com/mycompany/hu2/domain/Alimento.class
+com/mycompany/hu2/domain/Electrodomestico.class
+com/mycompany/hu2/HU2.class
+com/mycompany/hu2/domain/Compra.class
